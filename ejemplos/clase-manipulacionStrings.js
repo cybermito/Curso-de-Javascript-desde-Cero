@@ -25,7 +25,7 @@ console.log(saludo.length) //Indica el tamaño del string
 console.log(saludo.toLocaleUpperCase()) //Convierte a mayúsculas el string usando la codificación local del idioma. 
 console.log(saludo.toLocaleLowerCase()) //Convierte a minúsculas el string usando la codificación local del idioma.
 
-//Dividir una cadena de carácteres (string)
+//Dividir una cadena de caracteres (string)
 
 const saludoDividido = saludo.split(' ') //Nos crea un array del string dividido por el carácter espacio
 console.log(saludoDividido)

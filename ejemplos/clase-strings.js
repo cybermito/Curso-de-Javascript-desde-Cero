@@ -59,13 +59,13 @@ const templaLiterals = `I'm Software Engineer`
 /*
     Las son rojas,
     las violetas azules,
-    Caracter inesperado,
+    Carácter inesperado,
     En la línea 86.
 */
 
 const poema = 'Las son rojas,\n' + 
               'las violetas azules,\n' + 
-              'Caracter inesperado,\n' + 
+              'Carácter inesperado,\n' +
               'En la línea 86.'
 
 console.log(poema)

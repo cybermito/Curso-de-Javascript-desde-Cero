@@ -1,5 +1,7 @@
 # Curso de Javascript desde Cero
 
+Ir a la página [MDN Javascript](https://developer.mozilla.org/es/docs/Learn/JavaScript)
+
 ## Preparar el entorno de trabajo
 
 Instalar Visual Studio Code
